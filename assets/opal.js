@@ -4,8 +4,8 @@ function get_started(event, what){
     $.post('http://ohcucontakt.deadpansincerity.com/former.php', {
         z_name: 'Unknown',
         z_requester: email,
-        z_subject: 'OPAL website quick form',
-        z_description: 'More information about OPAL'
+        z_subject: 'elCID website quick form',
+        z_description: 'More information about elCID'
     }, function(){ window.location = window.location.href});
     return false;
 }
