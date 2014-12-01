@@ -9,7 +9,7 @@
   position: relative;
   background: #a06081 
     url('../images/background/81H.jpg') 
-    no-repeat center -520px;
+    no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
